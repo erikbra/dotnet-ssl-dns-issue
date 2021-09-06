@@ -62,7 +62,7 @@ Response: StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net
 ```
 
 
-### Running in docker (on Alpine-x64) outputs
+### Running in docker (on Alpine-x64), or natively on Linux outputs
 
 ```
 Running on: Unix 5.10.16.3
