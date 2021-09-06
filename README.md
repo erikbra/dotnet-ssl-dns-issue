@@ -20,7 +20,7 @@ There are two Powershell scripts in the root folder:
 
 They run the repro with dotnet locally on the box you run it on, and in docker (alpine-x64), respectively.
 
-### Running on Windows outputs
+### Running on Windows and macOS outputs
 
 ```
 Running on: Microsoft Windows NT 10.0.19043.0
