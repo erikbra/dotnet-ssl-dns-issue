@@ -1,3 +1,3 @@
-#!/bin/env pwsh
+#!env pwsh
 
 dotnet run  --project ./MinimalRepro
